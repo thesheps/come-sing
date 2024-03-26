@@ -1010,3 +1010,5 @@ ProjectSettings/Physics2DSettings.asset filter=lfs diff=lfs merge=lfs -text
 UserSettings/EditorUserSettings.asset filter=lfs diff=lfs merge=lfs -text
 Library/MonoManager.asset filter=lfs diff=lfs merge=lfs -text
 Library/SceneVisibilityState.asset filter=lfs diff=lfs merge=lfs -text
+Library/Bee/artifacts/WebGL/webgl.data filter=lfs diff=lfs merge=lfs -text
+build/Build/build.data filter=lfs diff=lfs merge=lfs -text
